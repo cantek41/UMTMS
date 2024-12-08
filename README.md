@@ -20,7 +20,7 @@ Lisesi (TR)
 
 [Instagram](https://www.instagram.com/umtms.project/)
 
-[Web] https://www.umtms.com/
+[Web](https://www.umtms.com/)
 
 
 
