@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd08007190244e2fb3adcf51be247d4, type: 3}
+  m_Name: Pump_LO_P2
+  m_EditorClassIdentifier: 
+  status: 2
+  PipeDia: 52.5
+  TemperatureIn: 0
+  TemperatureOut: 0
+  PressureIn: 0.1
+  PressureOut: 0.21
+  alarms:
+  - {fileID: 11400000, guid: 1b9b25d51f08244e1861eb245033796b, type: 2}
+  - {fileID: 11400000, guid: d7b7da622707e4046a37b5e8c7b81645, type: 2}
+  - {fileID: 11400000, guid: bab58937479b343e18f29734ae25378d, type: 2}
+  - {fileID: 11400000, guid: a4d47dea5de0b4592aec5f029d229c1e, type: 2}
+  InletValve: {fileID: 11400000, guid: c9b03dba96725409c9df67c897c55172, type: 2}
+  OutletValve: {fileID: 11400000, guid: 5861f5888ebe84f3f9cc92f26b5987c9, type: 2}
+  WorkingRangeInput:
+  - 0.01
+  - 0.25
+  WorkingRangeOutput:
+  - 0.19
+  - 0.25
+  Performance: 90
+  PowerOnOff: 0
+  PowerW: 0
+  Resistance: 0
+  H: 0

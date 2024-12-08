@@ -1,0 +1,21 @@
+{
+    "time":700,
+    "title":"Oil Pressure Lower than alarm limit",
+    "description":"The cooling water design temperature in the central cooling water system is normally 36 °C, corresponding to a maximum seawater tem- perature of 32 °C",
+    "DocLink": "https://drive.google.com/file/d/1rSRxZury2QpKKn1S5y3mzSFUu_0YoGIL/view?usp=drive_link",
+    "components":[
+       {
+        "objectNAME":"CCMasterPump",
+        "value":0.33,
+        "valueType":"PRESSURE",
+        "system":"CCoolWaterData"
+       } ,
+       {
+        "objectNAME":"CCMasterFilter",
+        "value":0.4,
+        "valueType":"PRESSURE",
+        "system":"CCoolWaterData"
+       } 
+    ]
+}
+

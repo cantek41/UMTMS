@@ -1,0 +1,14 @@
+{
+    "time": 200,
+    "title": "Main Engine – Fuel Injection Pump No 4. stucking",
+    "description": "Main Engine onboard simulated ship is a crosshead engine of two-stroke type (Fig.1.). The engine is equipped with scavenging ports and exhaust valve. Fuel injection pump is operated mechanically by means of camshaft. ",
+    "DocLink": "https://drive.google.com/file/d/16aqNgLCNRCYqGYqlo0zEcHLVboasUw4W/view?usp=sharing",
+    "components": [
+        {
+            "objectNAME": "CYLINDER4",
+            "value": 450,
+            "valueType": "TEMPERATURE",
+            "system": "JWData"
+        }
+    ]
+}

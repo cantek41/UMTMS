@@ -1,0 +1,14 @@
+{
+    "time":250,
+    "title":"Oil Filter Change, LO Master Filter Diff. Clogged",
+    "description":"The lubricating oil is pumped from a bottom tank by means of the main lubricating oil pump to the lubricating oil cooler, a thermostatic valve and, through a fullflow filter, to the engine inlet RU.",
+    "DocLink": "https://drive.google.com/file/d/1ILGkwBUJttuuZenK_sHwN3wHi1E2cQ8B/view?usp=drive_link",
+    "components":[
+       {
+        "objectNAME":"LOMasterFilter",
+        "value":0.31,
+        "valueType":"PRESSURE",
+        "system":"LOData"
+       } 
+    ]
+}

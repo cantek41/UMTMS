@@ -1,0 +1,53 @@
+{
+    "Alarms": [
+        {
+            "Code": "EICUXXM_0150",
+            "MOPMessage": "LO MASTER Cooler Press. too low",
+            "Description": "Hydraulic pressure is lower than alarm limit.",
+            "conditionValue":0.18,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },  
+        {
+            "Code": "EICUXXM_0151",
+            "MOPMessage": "LO MASTER Cooler Press. too high",
+            "Description": "Hydraulic pressure is lower than alarm limit.",
+            "conditionValue":0.19,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },  
+        
+        {
+            "Code": "EICUXXM_0152",
+            "MOPMessage": "LO MASTER Cooler Temperature. too high",
+            "Description": "LO temp is higher than alarm limit.",
+            "conditionValue":55,
+            "conditionValueType":"TEMPERATURE",
+            "condition":">"
+        },
+        {
+            "Code": "EICUXXS_0150",
+            "MOPMessage": "LO SLAVE Cooler Press. too low",
+            "Description": "Hydraulic pressure is lower than alarm limit.",
+            "conditionValue":0.18,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },  
+        {
+            "Code": "EICUXXS_0151",
+            "MOPMessage": "LO SLAVE Cooler Press. too high",
+            "Description": "Hydraulic pressure is lower than alarm limit.",
+            "conditionValue":0.25,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },          
+        {
+            "Code": "EICUXXS_0152",
+            "MOPMessage": "LO SLAVE Cooler Temperature. too high",
+            "Description": "LO temp is higher than alarm limit.",
+            "conditionValue":55,
+            "conditionValueType":"TEMPERATURE",
+            "condition":">"
+        }
+        ]
+}

@@ -1,0 +1,15 @@
+{
+    "time":300,
+    "title":"Cooler pressure ise to high",
+    "description":"The central cooling water system is characterised by having only one heat exchanger cooled by seawater, and by the other coolers, including the jacket water cooler, being cooled by central cool- ing water. In order to prevent too high a scavenge air tem- perature, the cooling water design temperature in the central cooling water system is normally 36 °C, corresponding to a maximum seawater tem- perature of 32 °C.",
+    "DocLink": "https://drive.google.com/file/d/1c-FY7ejCKK4RzSR8Z8-iqXosQDb02OQ4/view?usp=drive_link",
+    "components":[
+       {
+        "objectNAME":"CCMasterPump",
+        "value":0.33,
+        "valueType":"PRESSURE",
+        "system":"CCoolWaterData"
+       } 
+    ]
+}
+

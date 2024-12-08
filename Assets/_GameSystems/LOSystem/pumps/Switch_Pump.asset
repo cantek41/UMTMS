@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3df40a7d6cc3422fbff01fd721bfe75, type: 3}
+  m_Name: Switch_Pump
+  m_EditorClassIdentifier: 
+  status: 0
+  PipeDia: 52.5
+  TemperatureIn: 0
+  TemperatureOut: 0
+  PressureIn: 0
+  PressureOut: 1.71
+  alarms: []
+  State: 0
+  Master: {fileID: 11400000, guid: 8b41045f58ab64d169cda5be27ae27b6, type: 2}
+  Slave: {fileID: 11400000, guid: 08fb63e9ae49a40a2ada0d109023b302, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3df40a7d6cc3422fbff01fd721bfe75, type: 3}
+  m_Name: Switch_filter
+  m_EditorClassIdentifier: 
+  status: 0
+  PipeDia: 52.5
+  TemperatureIn: 3
+  TemperatureOut: 4
+  PressureIn: 3
+  PressureOut: 3.06
+  alarms:
+  - {fileID: 11400000, guid: 4ae975d60ea9c42408f056a0523b2f8c, type: 2}
+  State: 0
+  Master: {fileID: 11400000, guid: 409bf365512a14dd6957c96de0ae6612, type: 2}
+  Slave: {fileID: 11400000, guid: f210c9d05e15447fa84e373ee0332a0a, type: 2}

@@ -1,0 +1,35 @@
+{
+    "Alarms": [
+        {
+            "Code": "FOWXX_001",
+            "MOPMessage": "FUEL PRESSURE LOW – 5,5 bar,\n FUEL FLT DIFF PRESSURE HIGH",
+            "Description": "Water pressure is high",
+            "conditionValue":0.6,
+            "conditionValueType":"PRESSURE",
+            "condition":">"
+        },
+        {
+            "Code": "FOWXX_002",
+            "MOPMessage": "FUEL PRESSURE LOW – 5,8 bar",
+            "Description": "Water pressure is low",
+            "conditionValue":0.4,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },
+        {
+            "Code": "FOWXX_003",
+            "MOPMessage": "FO temputere is LOW",
+            "Description": "FO temputere is LOW",
+            "conditionValue":100,
+            "conditionValueType":"TEMPERATURE",
+            "condition":"<"
+        },{
+            "Code": "FOWXX_004",
+            "MOPMessage": " FO filter temp",
+            "Description": "JW-water temputere is high",
+            "conditionValue":100,
+            "conditionValueType":"TEMPERATURE",
+            "condition":"<"
+        }
+    ]
+}

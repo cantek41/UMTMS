@@ -1,0 +1,28 @@
+{
+    "Alarms": [
+        {
+            "Code": "ELCXXM_0001",
+            "MOPMessage": "Master and Slave Generator are not Synchroniza",
+            "Description": "Synchroniza problem",
+            "conditionValue":55,
+            "conditionValueType":"FREQUENCY",
+            "condition":"!="
+        },
+        {
+            "Code": "ELCSMK_0001",
+            "MOPMessage": "Lo S:  The control unit is getting low signal from the receiver head",
+            "Description": "RH - receiver head",
+            "conditionValue":1,
+            "conditionValueType":"CURRENT",
+            "condition":"<"
+        },
+        {
+            "Code": "ELCXXM_0002",
+            "MOPMessage": "Emergency Generator, Battery start",
+            "Description": "For starting the emergency generator using battery start method",
+            "conditionValue":1,
+            "conditionValueType":"CURRENT",
+            "condition":"<"
+        }
+    ]
+}

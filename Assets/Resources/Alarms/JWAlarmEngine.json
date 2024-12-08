@@ -1,0 +1,20 @@
+{
+    "Alarms": [
+        {
+            "Code": "JWWME_001",
+            "MOPMessage": "CYLINDER No. 5 EXHAUST GAS TEMPERATURE HIGH HIGH – 450 ̊C",
+            "Description": "Water pressure is high",
+            "conditionValue":120,
+            "conditionValueType":"TEMPERATURE",
+            "condition":">"
+        },
+        {
+            "Code": "JWWME_002",
+            "MOPMessage": "CYLINDER No. 4 EXHAUST GAS TEMPERATURE DEVIATIONS",
+            "Description": "Water pressure is high",
+            "conditionValue":120,
+            "conditionValueType":"TEMPERATURE",
+            "condition":">"
+        }
+    ]
+}

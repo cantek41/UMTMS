@@ -1,0 +1,15 @@
+{
+    "time":300,
+    "title":"Pump Oil Pressure Lower than alarm limit",
+    "description":"The lubricating oil is pumped from a bottom tank by means of the main lubricating oil pump to the lubricating oil cooler, a thermostatic valve and, through a fullflow filter, to the engine inlet RU.",
+    "DocLink": "https://drive.google.com/file/d/1u45aZ9EIWwA6ceaw1cN5UiOmWoE6SDrr/view?usp=drive_link",
+    "components":[
+       {
+        "objectNAME":"LOMasterPump",
+        "value":0,
+        "valueType":"PRESSURE",
+        "system":"LOData"
+       } 
+    ]
+}
+

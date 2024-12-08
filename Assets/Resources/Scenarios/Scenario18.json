@@ -1,0 +1,14 @@
+{
+    "time": 240,
+    "title": "Marine Auxiliary Boiler’s Fuel Pump Tripping.",
+    "description": "Marine auxiliary boiler (AB) is only used in port and the exhaust boiler caters for all heating and steam needs while at sea.(fig 6-blue arrow). These boilers have boiler burners (BB) (fig 6-purple arrow)   to supply the required heat when the supply of heat from the ME exhausts gases is not sufficient. ",
+    "DocLink": "https://drive.google.com/file/d/1-C0zSyo_kEm4kcqDOFj1LKA3d_OSuNXS/view?usp=sharing",
+    "components": [
+            {
+                "objectNAME": "boilerMasterPump1",
+                "value": 0.65,
+                "valueType": "PRESSURE",
+                "system": "BData"
+            }
+    ]
+}

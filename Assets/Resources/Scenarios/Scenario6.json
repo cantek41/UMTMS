@@ -1,0 +1,15 @@
+{
+    "time":300,
+    "title":"Cooler temputure ise to high",
+    "description":"The cooling water design temperature in the central cooling water system is normally 36 °C, corresponding to a maximum seawater tem- perature of 32 °C",
+    "DocLink": "https://drive.google.com/file/d/1Yhhcn7xusN1Q8yVcDhtY4i1KiJXN-4Es/view?usp=sharing",
+    "components":[
+       {
+        "objectNAME":"CCMasterFilter",
+        "value":0.4,
+        "valueType":"PRESSURE",
+        "system":"CCoolWaterData"
+       } 
+    ]
+}
+

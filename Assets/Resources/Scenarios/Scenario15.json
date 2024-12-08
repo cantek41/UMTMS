@@ -1,0 +1,14 @@
+{
+    "time": 240,
+    "title": "AB water level Low – Problem with Automatic Feed Pump or Feed water Control Valve",
+    "description": "Initially the water is in the feed tank. Through a pump (I) (Feed Pump) it is transferred to the water chamber of the Boiler  after it has been preheated. Then through pump (J) (Gas Boiler Pump) the water is transported to the highest point of (A) Gas Boiler where it is preheated to a very close vaporization temperature. It is then transported to the middle point of (B) Gas Boiler where liquid steam is produced. ",
+    "DocLink": "https://drive.google.com/file/d/1-hUeMddm-9Ro_7CUVCmIu3nSKQht8sbM/view?usp=sharing",
+    "components": [
+        {
+            "objectNAME": "BoilerMaster",
+            "value": 179,
+            "valueType": "LEVEL",
+            "system": "BData"
+        }
+    ]
+}

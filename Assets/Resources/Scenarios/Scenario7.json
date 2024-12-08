@@ -1,0 +1,21 @@
+{
+    "time":600,
+    "title":"Jacket Water system problem",
+    "description":"The heat dissipation and the central cooling water flow figures are based on an MCR output at tropi- cal conditions, i.e. a maximum seawater tempera- ture of 32 °C and an ambient air temperature of 45 °C.",
+    "DocLink": "https://drive.google.com/file/d/1aelELDl9rdplOnVUCWQijTcoimzYDctA/view?usp=sharing",
+    "components":[
+       {
+        "objectNAME":"JWMasterFilter",
+        "value":0.4,
+        "valueType":"PRESSURE",
+        "system":"JWData"
+       } ,
+       {
+        "objectNAME":"JWMasterCooler",
+        "value":110,
+        "valueType":"TEMPERATURE",
+        "system":"JWData"
+       } 
+    ]
+}
+

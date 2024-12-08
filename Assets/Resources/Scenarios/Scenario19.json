@@ -1,0 +1,20 @@
+{
+    "time": 240,
+    "title": "SHIP’S EMERGENCY GENERATOR",
+    "description": "Emergency generator on ship provides power in case the main generators of the ship fail and creates a “dead or blackout condition”. Emergency generator is constructed to supply electric power to some of the most important instruments, devices, and machinery on a ship such as essential sensors and alarm systems ",
+    "DocLink": "https://drive.google.com/file/d/1-C0zSyo_kEm4kcqDOFj1LKA3d_OSuNXS/view?usp=sharing",
+    "components": [
+            {
+              "objectNAME": "EmergencyGenerator",
+                "value": 0,
+                "valueType": "CURRENT",
+                "system": "ElectricData"
+            },
+            {
+              "objectNAME": "EmergencyGenerator",
+                "value": "OFF",
+                "valueType": "STATUS",
+                "system": "ElectricData"
+            }
+    ]
+}

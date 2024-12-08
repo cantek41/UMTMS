@@ -1,0 +1,15 @@
+{
+    "time":300,
+    "title":"COMPRESSED AİR SYSTEM MANEUVERİNG İN MANUAL MODE",
+    "description":"The Compressed Air system is designed to generate and supply compressed air for ship systems by: Compressed Starting and Service Air System. Control Air System. To ensure the functionality of the components in the compressed air system, the compressed air has to be dry and clean from solid particles and oil.",
+    "DocLink": "https://drive.google.com/file/d/1zaX3_WNiV87UM1u-wc_10FaDIu8X6n0p/view?usp=sharing",
+    "components":[
+       {
+        "objectNAME":"AirDriyer",
+        "value":1,
+        "valueType":"PRESSURE",
+        "system":"AirData"
+       }
+    ]
+}
+

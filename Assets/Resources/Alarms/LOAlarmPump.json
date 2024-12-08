@@ -1,0 +1,52 @@
+{
+    "Alarms": [
+        {
+            "Code": "ECUXXM_5121",
+            "MOPMessage": "LO Master Pump Inlet press high",
+            "Description": "Lubrication oil inlet pressure is high",
+            "conditionValue":0.25,
+            "conditionValueType":"PRESSURE",
+            "condition":">"
+        },
+        {
+            "Code": "ECUXXM_5136",
+            "MOPMessage": "LO Master Pump Inlet press shutdown level",
+            "Description": "Lubrication oil inlet pressure is below shutdown level",
+            "conditionValue":0.19,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },
+        {
+            "Code": "ECUXXM_5139",
+            "MOPMessage": "LO Inlet Temperature. too high",
+            "Description": "LO temp is higher than alarm limit.",
+            "conditionValue":55,
+            "conditionValueType":"TEMPERATURE",
+            "condition":">"
+        },    
+        {
+            "Code": "ECUXXS_5121",
+            "MOPMessage": "LO Slave Pump Inlet press high",
+            "Description": "Lubrication oil inlet pressure is high",
+            "conditionValue":0.25,
+            "conditionValueType":"PRESSURE",
+            "condition":">"
+        },
+        {
+            "Code": "ECUXXS_5136",
+            "MOPMessage": "LO Slave Pump Inlet press shutdown level",
+            "Description": "Lubrication oil inlet pressure is below shutdown level",
+            "conditionValue":0.19,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },        
+        {
+            "Code": "ECUXXS_5139",
+            "MOPMessage": "LO Inlet Temperature. too high",
+            "Description": "LO temp is higher than alarm limit.",
+            "conditionValue":55,
+            "conditionValueType":"TEMPERATURE",
+            "condition":">"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 858ca96d38b5b4c198bcf3d7366bdcab, type: 3}
+  m_Name: _coolerSlave
+  m_EditorClassIdentifier: 
+  components:
+  - {fileID: 11400000, guid: 267299ede9e81447c9c0e360cb024da7, type: 2}
+  - {fileID: 11400000, guid: bcdb0cd275feb4dc1bb62842b3fc4edd, type: 2}
+  - {fileID: 11400000, guid: 5700fa3c830354c96ae0cf03497e6d2a, type: 2}

@@ -1,0 +1,38 @@
+{
+    "Alarms": [
+        {
+            "Code": "COWXX_001",
+            "MOPMessage": "JW cooling water pressure or flow",
+            "Description": "Water pressure is high",
+            "conditionValue":0.3,
+            "conditionValueType":"PRESSURE",
+            "condition":">"
+        },
+        {
+            "Code": "COWXX_002",
+            "MOPMessage": "JW cooling water pressure or flow",
+            "Description": "Water pressure is low",
+            "conditionValue":0.15,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },
+        {
+            "Code": "COWXX_003",
+            "MOPMessage": "Cylinder cooling water temp",
+            "Description": "JW-water temputere is high",
+            "conditionValue":50,
+            "conditionValueType":"TEMPERATURE",
+            "condition":">"
+        },
+        {
+            "Code": "COWXX_004",
+            "MOPMessage": "JW cooling water temp",
+            "Description": "JW-water temputere is low",
+            "conditionValue":45,
+            "conditionValueType":"TEMPERATURE",
+            "condition":">"
+        }
+
+
+    ]
+}

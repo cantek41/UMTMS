@@ -1,0 +1,28 @@
+{
+    "Alarms": [
+        {
+            "Code": "BLPXX_001",
+            "MOPMessage": "Boiler pressure is high",
+            "Description": "Water pressure is high",
+            "conditionValue":7,
+            "conditionValueType":"PRESSURE",
+            "condition":">"
+        },
+        {
+            "Code": "BLCXX_002",
+            "MOPMessage": "Auxillary boiler water level 179",
+            "Description": "Water level is low",
+            "conditionValue":200,
+            "conditionValueType":"LEVEL",
+            "condition":"<"
+        },
+        {
+            "Code": "BLPXX_003",
+            "MOPMessage": "AB steam press low",
+            "Description": "AB steam press low",
+            "conditionValue":7,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        }        
+    ]
+}

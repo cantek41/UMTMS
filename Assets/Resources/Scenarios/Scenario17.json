@@ -1,0 +1,14 @@
+{
+    "time": 240,
+    "title": "NO INDICATION OF THE SMOKE DENSITY EQUIPMENT",
+    "description": "Lo S, The smoke density monitor is designed to continuously monitor the smoke density and observation in the flue gas. The system includes a transmitter head TH, a receiver head RH, and a control unit CU, see Illustration of the smoke density monitoring system",
+    "DocLink": "https://drive.google.com/file/d/1OImu5c_OcyYECTmp94qJ2IlqVT6NA33a/view?usp=sharing",
+    "components": [
+        {
+            "objectNAME": "ELCSmoke",
+            "value": 0,
+            "valueType": "CURRENT",
+            "system": "ElectricData"
+        }
+    ]
+}

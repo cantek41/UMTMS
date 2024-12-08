@@ -1,0 +1,14 @@
+{
+    "time": 240,
+    "title": "STEERING GEAR FAULTS AND DAMAGES & BLACK OUT",
+    "description": "The STEERING GEAR SYSTEM is used to steer the ship during its movement to maintain a straight course, to make turns and when maneuvering to enter or leave a port, as well as for maneuvers when berthing to a quay and unberthing from a quay wall.",
+    "DocLink": "https://drive.google.com/file/d/17iZZUgKTKjVk0TP1dTRBetrMwzrLC13s/view?usp=sharing",
+    "components": [
+            {
+              "objectNAME": "steeringgearunit1",
+                "value": 0,
+                "valueType": "CURRENT",
+                "system": "SData"
+            }
+    ]
+}

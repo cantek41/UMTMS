@@ -1,0 +1,14 @@
+{
+    "time": 240,
+    "title": "ELECTRICAL GENERATORS SYSTEM - EGS",
+    "description": "One Main Electrical Generator is Overloading and it is necessary to start the procedure of Synchroniza:on with the Second Main Electrical Generator",
+    "DocLink": "https://drive.google.com/file/d/1m8tRaTCi_Ya8-LRWxJFp3F9zo93EDBJS/view?usp=sharing",
+    "components": [
+            {
+                "objectNAME": "ELCSlaveGenerator",
+                "value": 60,
+                "valueType": "FREQUENCY",
+                "system": "ElectricData"
+            }
+    ]
+}

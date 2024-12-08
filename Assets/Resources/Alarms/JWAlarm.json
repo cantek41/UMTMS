@@ -1,0 +1,45 @@
+{
+    "Alarms": [
+        {
+            "Code": "JWXX_001",
+            "MOPMessage": "JW cooling water pressure or flow",
+            "Description": "Water pressure is high",
+            "conditionValue":0.3,
+            "conditionValueType":"PRESSURE",
+            "condition":">"
+        },
+        {
+            "Code": "JWXX_002",
+            "MOPMessage": "JW cooling water pressure or flow",
+            "Description": "Water pressure is low",
+            "conditionValue":0.15,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },
+        {
+            "Code": "JWXX_003",
+            "MOPMessage": "JW cooling water temp",
+            "Description": "JW-water temputere is high",
+            "conditionValue":100,
+            "conditionValueType":"TEMPERATURE",
+            "condition":">"
+        },{
+            "Code": "JWXX_004",
+            "MOPMessage": "JW cooling water filter temp",
+            "Description": "JW-water temputere is high",
+            "conditionValue":100,
+            "conditionValueType":"TEMPERATURE",
+            "condition":">"
+        },
+        {
+            "Code": "JWXX_005",
+            "MOPMessage": "JW cooling water filter pressure",
+            "Description": "JW-water pressure is high",
+            "conditionValue":0.2,
+            "conditionValueType":"PRESSURE",
+            "condition":">"
+        }
+
+
+    ]
+}

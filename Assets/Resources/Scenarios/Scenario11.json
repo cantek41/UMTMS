@@ -1,0 +1,15 @@
+{
+    "time":300,
+    "title":"COMPRESSOR N1 WEAR OF THE RİNGS AND VALVES – TEAR AND WEAR OF THE COMPRESSOR 1 RİNGS AND VALVES",
+    "description":"The system is designed for production, storage and supply of compressed air, including air for the diesel start/control. The system includes the following components:     The system of pipelines and reservoirs as a gas-dynamic object;     Electrically driven two-stage air compressor 1 with water cooling and an air cooler - pumping air under a pressure of 30 bar to two main bottles.",
+    "DocLink": "https://drive.google.com/file/d/1PWKICSgAgxja-k-MqmbDvGPLlaZBPlOJ/view?usp=sharing",
+    "components":[
+       {
+        "objectNAME":"AirMasterComporessor",
+        "value":18,
+        "valueType":"PRESSURE",
+        "system":"AirData"
+       }
+    ]
+}
+

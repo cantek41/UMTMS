@@ -1,0 +1,78 @@
+{
+    "Alarms": [
+        {
+            "Code": "ALR_CA_001",
+            "MOPMessage": "Starting air compressor 1 pressure low",
+            "Description": "Water pressure is high",
+            "conditionValue":22,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },
+        {
+            "Code": "ALR_CA_002",
+            "MOPMessage": "Starting air compressor 1 pressure high",
+            "Description": "Water pressure is low",
+            "conditionValue":30,
+            "conditionValueType":"PRESSURE",
+            "condition":">"
+        },
+        {
+            "Code": "ALR_CA_003",
+            "MOPMessage": "Starting air reservoir 1 pressure low",
+            "Description": "JW-water temputere is high",
+            "conditionValue":22,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },
+        {
+            "Code": "ALR_CA_004",
+            "MOPMessage": "Starting air reservoir 1 pressure high",
+            "Description": "JW-water temputere is low",
+            "conditionValue":30,
+            "conditionValueType":"PRESSURE",
+            "condition":">"
+        },
+        {
+            "Code": "ALR_CA_005",
+            "MOPMessage": "Main engine starting air pressure low",
+            "Description": "JW-water temputere is low",
+            "conditionValue":22,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },
+        {
+            "Code": "ALR_CA_006",
+            "MOPMessage": "G/E starting air pressure low",
+            "Description": "JW-water temputere is low",
+            "conditionValue":22,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },
+        {
+            "Code": "ALR_CA_007",
+            "MOPMessage": "Control air pressure Low",
+            "Description": "JW-water temputere is low",
+            "conditionValue":4,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },
+        {
+            "Code": "ALR_CA_008",
+            "MOPMessage": "Aux. air reservoir starting air pressure low",
+            "Description": "JW-water temputere is low",
+            "conditionValue":22,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },
+        {
+            "Code": "ALR_CA_009",
+            "MOPMessage": "Cooling water for starting air compressors pressure low",
+            "Description": "JW-water temputere is low",
+            "conditionValue":2,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        }
+
+
+    ]
+}

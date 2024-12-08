@@ -1,0 +1,14 @@
+{
+    "time": 300,
+    "title": "Main Engine Slowdown – Exhaust Valve No. 5 burned out",
+    "description": "Main Engine onboard simulated ship is a crosshead engine of two-stroke type (Fig.1.). The engine is equipped with scavenging ports and exhaust valve. Exhaust valve opens at the end of combustion/expansion process and creates uniflow scavenging system within engine cylinder. Exhaust valve is operated hydraulically either by mechanical or electrical activation.",
+    "DocLink": "https://drive.google.com/file/d/1FNaDDVOv-fzu7Z3iGCJ2OSuihy4SC0yQ/view?usp=sharing",
+    "components": [
+        {
+            "objectNAME": "CYLINDER5",
+            "value": 450,
+            "valueType": "TEMPERATURE",
+            "system": "JWData"
+        }
+    ]
+}

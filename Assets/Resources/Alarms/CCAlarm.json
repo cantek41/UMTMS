@@ -1,0 +1,37 @@
+{
+    "Alarms": [
+        {
+            "Code": "COWXX_001",
+            "MOPMessage": "CC cooling water master pump pressure or flow",
+            "Description": "Water pressure is high",
+            "conditionValue":0.3,
+            "conditionValueType":"PRESSURE",
+            "condition":">"
+        },
+        {
+            "Code": "COWXX_002",
+            "MOPMessage": "CC water pressure or flow",
+            "Description": "Water pressure is low",
+            "conditionValue":0.18,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },
+        {
+            "Code": "COWXX_003",
+            "MOPMessage": "CC cooling water temp",
+            "Description": "CC-water temputere is high",
+            "conditionValue":50,
+            "conditionValueType":"TEMPERATURE",
+            "condition":">"
+        },
+        {
+            "Code": "COWXX_004",
+            "MOPMessage": "CC cooling water pressure",
+            "Description": "CC-water filter pressure is high",
+            "conditionValue":0.2,
+            "conditionValueType":"PRESSURE",
+            "condition":">"
+        }
+
+    ]
+}

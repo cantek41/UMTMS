@@ -1,0 +1,20 @@
+{
+    "Alarms": [
+        {
+            "Code": "ALR_SG_001",
+            "MOPMessage": "Steering gear unit 1 pressure low",
+            "Description": "Steering problem",
+            "conditionValue":0.20,
+            "conditionValueType":"PRESSURE",
+            "condition":"<"
+        },
+        {
+            "Code": "ALR_SG_002",
+            "MOPMessage": "Steering gear Black Out",
+            "Description": "No Remote Controle",
+            "conditionValue":1,
+            "conditionValueType":"CURRENT",
+            "condition":"<"
+        }
+    ]
+}

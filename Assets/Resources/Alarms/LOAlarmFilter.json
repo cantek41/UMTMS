@@ -1,0 +1,52 @@
+{
+    "Alarms": [
+        {
+            "Code": "EICUXXM_0354",
+            "MOPMessage": "Hydr. Press. too low",
+            "Description": "Hydraulic pressure is lower than alarm limit.",
+            "conditionValue": 0.18,
+            "conditionValueType": "PRESSURE",
+            "condition": "<"
+        },
+        {
+            "Code": "EICUXXM_0353",
+            "MOPMessage": "Hydr. Press. too high",
+            "Description": "Hydraulic pressure is higher than alarm limit.",
+            "conditionValue": 0.30,
+            "conditionValueType": "PRESSURE",
+            "condition": ">"
+        },
+        {
+            "Code": "EICUXXM_0300",
+            "MOPMessage": "LO Inlet Temperature. too high",
+            "Description": "LO temp is higher than alarm limit.",
+            "conditionValue": 55,
+            "conditionValueType": "TEMPERATURE",
+            "condition": ">"
+        },
+        {
+            "Code": "EICUXXS_0354",
+            "MOPMessage": "Hydr. Press. too low",
+            "Description": "Hydraulic pressure is lower than alarm limit.",
+            "conditionValue": 0.18,
+            "conditionValueType": "PRESSURE",
+            "condition": "<"
+        },
+        {
+            "Code": "EICUXXS_0353",
+            "MOPMessage": "Hydr. Press. too high",
+            "Description": "Hydraulic pressure is higher than alarm limit.",
+            "conditionValue": 0.30,
+            "conditionValueType": "PRESSURE",
+            "condition": ">"
+        },
+        {
+            "Code": "EICUXXS_0300",
+            "MOPMessage": "LO Inlet Temperature. too high",
+            "Description": "LO temp is higher than alarm limit.",
+            "conditionValue": 55,
+            "conditionValueType": "TEMPERATURE",
+            "condition": ">"
+        }
+    ]
+}
